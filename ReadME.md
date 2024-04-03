@@ -29,6 +29,11 @@ Make sure that node, typescipt and it's supporting dev modules were already inst
 email : admin@ecommapp.com
 password : Test@1234
 
+## User Creds
+
+email : johndoe@gmail.com
+password : Test@1234
+
 ## Service Info
 
 Email service - Mailtrap
